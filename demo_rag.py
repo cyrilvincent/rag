@@ -2,6 +2,10 @@ from transformers import BertTokenizer, BertModel
 import torch
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
+import csv
+import base64
+import io
+
 
 class Chunk:
 
@@ -27,16 +31,19 @@ class Chunk:
         return paragraphes
 
     def load(self, path: str, encoding="utf-8") -> str:
+        print(f"Loading {path}")
         with open(path, encoding=encoding) as f:
             return f.read()
 
-class BertEmbeding:
+
+class BertEmbedding:
 
     def __init__(self):
         self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
         self.model = BertModel.from_pretrained('bert-base-uncased')
 
     def embed(self, text: str) -> np.array:
+        print(f"Embed {text}")
         inputs = self.tokenizer(text, return_tensors='pt')
         with torch.no_grad():
             outputs = self.model(**inputs)
@@ -53,18 +60,77 @@ class BertEmbeding:
         return score[0]
 
 
+class VectorDb:
+
+    def __init__(self, path: str):
+        self.path = path
+        self.embeddings: list[tuple[np.array, str]] = []
+        self.bert = BertEmbedding()
+
+    def train(self, chunks: list[str]):
+        for chunk in chunks:
+            embed = self.bert.embed(chunk)
+            self.embeddings.append((embed, chunk))
+
+    def save(self):
+        with open(self.path, "w", encoding="utf-8") as f:
+            f.write("embed|chunk\n")
+            for embed in self.embeddings:
+                f.write(self.to_base64(embed[0]))
+                f.write("|")
+                f.write(embed[1])
+                f.write("\n")
+
+    def load(self):
+        print(f"Loading {self.path}")
+        with open(self.path, encoding="utf-8") as f:
+            reader = csv.DictReader(f, delimiter="|")
+            self.embeddings = []
+            for row in reader:
+                embed = self.from_base64(row["embed"])
+                self.embeddings.append((embed, row["chunk"]))
+
+    def to_base64(self, a: np.ndarray) -> str:
+        buffer = io.BytesIO()
+        np.save(buffer, a)
+        buffer.seek(0)
+        array_bytes = buffer.read()
+        return base64.b64encode(array_bytes).decode('utf-8')
+
+    def from_base64(self, array_base64_str: str) -> np.ndarray:
+        array_bytes = base64.b64decode(array_base64_str)
+        buffer = io.BytesIO(array_bytes)
+        return np.load(buffer)
+
+    def k_nearests(self, embed: np.array, k=1) -> np.array:
+        embeds = [e[0] for e in self.embeddings]
+        scores = self.bert.scores(embed, embeds)
+        indexes = np.argsort(scores)[::-1][:3]
+        return [(float(scores[i]), e[1]) for i, e in enumerate(self.embeddings) if i in indexes]
+
 if __name__ == '__main__':
-    chunk = Chunk()
-    text = chunk.load("data/le_petit_prince.txt")
+    # chunk = Chunk()
+    # text = chunk.load("data/le_petit_prince.txt")
     # text = chunk.load("data/the_little_prince.txt")
-    paragraphes = chunk.chunk_paragraphes(text)
-    print(len(paragraphes))
-    print(paragraphes)
-    print(paragraphes[1])
-    print(paragraphes[2])
-    bert = BertEmbeding()
-    embed1 = bert.embed(paragraphes[1])
-    print(embed1.shape)
-    embed2 = bert.embed(paragraphes[2])
-    score = bert.score(embed1, embed2)
-    print(score)
+    # paragraphes = chunk.chunk_paragraphes(text)
+    # print(len(paragraphes))
+    # print(paragraphes)
+    # print(paragraphes[1])
+    # print(paragraphes[2])
+    # bert = BertEmbedding()
+    # embed1 = bert.embed(paragraphes[1])
+    # print(embed1.shape)
+    # embed2 = bert.embed(paragraphes[2])
+    # score = bert.score(embed1, embed2)
+    # print(score)
+    db = VectorDb("data/vector.db")
+    # db.train(paragraphes)
+    # db.save()
+    db.load()
+    s = "Dessines moi un mouton"
+    embed = db.bert.embed(s)
+    scores = db.k_nearests(embed)
+    print(scores)
+
+
+
