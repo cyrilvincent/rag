@@ -1,0 +1,10 @@
+Chunk
+Chunk amélioré avec injection des keywors du titre et des mots les + utilisés
+Chunk avec chevauchement
+
+Embedding
+Transformer
+Vectorisation
+USE = vector512, wikipedia
+BERT
+CamenBERT = french
