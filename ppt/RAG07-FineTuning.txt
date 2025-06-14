@@ -1,0 +1,2 @@
+https://platform.openai.com/docs/guides/fine-tuning-best-practices
+https://cookbook.openai.com/examples/chat_finetuning_data_prep

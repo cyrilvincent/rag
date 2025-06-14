@@ -9,3 +9,7 @@ Contexte
 Envoyer tous le contexte dans la query
 Installation locale via docker
 Model size : https://docs.mistral.ai/getting-started/models/weights/
+OpenAI : Response JSON
+Role et conversation state = https://platform.openai.com/docs/guides/conversation-state?api-mode=responses
+Reasoning : https://platform.openai.com/docs/guides/reasoning?api-mode=responses
+File Upload : https://platform.openai.com/docs/guides/pdf-files?api-mode=responses
