@@ -1,2 +1,0 @@
-La Génération Augmentée de Récupération (anglais : Retrieval-augmented generation, RAG) est une technique d'optimisation de réponses de modèle de langage en Intelligence Artificielle. Cette méthode permet notamment d'améliorer la qualité de réponses aux requêtes en permettant aux grands modèles de langage (LLM) d'exploiter des ressources de données supplémentaires sans ré-entraînement.
-Les cas d'utilisation incluent l'accès via un chatbot aux données internes de l'entreprise ou la diffusion d'informations vérifiées provenant exclusivement de sources fiables et reconnues.

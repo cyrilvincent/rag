@@ -2,3 +2,5 @@ Txt
 SQL
 InMemory
 Real
+VectorDB
+PineCone

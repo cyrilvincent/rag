@@ -1,0 +1,2 @@
+Un grand modèle de langage est un type de modèle d'apprentissage automatique conçu pour les tâches de traitement automatique des langues telles que la génération de langage. Les grands modèles de langage sont des modèles de langage ayant de nombreux paramètres, et sont entraînés par apprentissage auto-supervisé sur une grande quantité de texte.
+Cette page liste certains des grands modèles de langage les plus connus.

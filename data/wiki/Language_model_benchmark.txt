@@ -1,0 +1,20 @@
+Language model benchmarks are standardized tests designed to evaluate the performance of language models on various natural language processing tasks. These tests are intended for comparing different models' capabilities in areas such as language understanding, generation, and reasoning.
+Benchmarks generally consist of a dataset and corresponding evaluation metrics. The dataset provides text samples and annotations, while the metrics measure a model's performance on tasks like question answering, text classification, and machine translation. These benchmarks are developed and maintained by academic institutions, research organizations, and industry players to track progress in the field.
+Benchmarks may be described by the following adjectives, not mutually exclusive:
+The boundary between a benchmark and a dataset is not sharp. Generally, a dataset contains three "splits": training, test, validation. Both the test and validation splits are essentially benchmarks. In general, a benchmark is distinguished from a test/validation dataset in that a benchmark is typically intended to be used to measure the performance of many different models that are not trained specifically for doing well on the benchmark, while a test/validation set is intended to be used to measure the performance of models trained specifically on the corresponding training set. In other words, a benchmark may be thought of as a test/validation set without a corresponding training set.
+Conversely, certain benchmarks may be used as a training set, such as the English Gigaword or the One Billion Word Benchmark, which in modern language is just the negative log likelihood loss on a pretraining set with 1 billion words. Indeed, the distinction between benchmark and dataset in language models became sharper after the rise of the pretraining paradigm.
+Generally, the life cycle of a benchmark consists of the following steps:
+Like datasets, benchmarks are typically constructed by several methods, individually or in combination:
+Generally, benchmarks are fully automated. This limits the questions that can be asked. For example, with mathematical questions, "proving a claim" would be difficult to automatically check, while "calculate an answer with a unique integer answer" would be automatically checkable. With programming tasks, the answer can generally be checked by running unit tests, with an upper limit on runtime.
+The benchmark scores are of the following kinds:
+The pass@n score can be estimated more accurately by making 
+ attempts, and use the unbiased estimator 
+, where 
+ is the number of correct attempts.
+For less well-formed tasks, where the output can be any sentence, there are the following commonly used scores: BLEU ROUGE, METEOR, NIST, word error rate, LEPOR, CIDEr, SPICE,[10] etc.
+Essentially any dataset can be used as a benchmark for statistical language modeling, with the perplexity (or near-equivalently, negative log-likelihood and bits per character, as in the original Shannon's test of the entropy of the English language[19]) being used as the benchmark score. For example, the original GPT-2 announcement included those of the model on WikiText-2, enwik8, text8, and WikiText-103 (all being standard language datasets made from the English Wikipedia).[20]
+However, there had been datasets more commonly used, or specifically designed, for use as a benchmark.
+See [22] for a review of over 100 such benchmarks.
+Some benchmarks are "omnibus", meaning they are made by combining several previous benchmarks.
+Some benchmarks specifically test for multimodal ability, usually between text, image, video, and audio.
+Some benchmarks were designed specifically to test for processing continuous text that is very long.

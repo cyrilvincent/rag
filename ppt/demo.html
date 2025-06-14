@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Retrieval - RAG pour une IA augmentée</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+</head>
+<body>
+
+  <!-- Barre haute fixée -->
+  <header class="fixed-header header-bg">
+    <div class="container">
+      <h1><a href="rag.html">Retrieval.fr</a></h1>
+	  <p class="subtitle">La recherche documentaire augmentée par l'IA</p>
+    </div>
+  </header>
+
+ 
+  <section class="archi-bg">
+    <div class="overlay2">
+      <div class="container">
+        <h2>Etape 1 : Upload</h2>
+		<p>J'upload mes documents dans Retrieval.fr</p>
+		<p>Retrieval.fr est hébergé en France, sécurisé et aux normes RGPD</p>
+		<p>Par glisser-déposer, ou par API ou par SQL <img src="https://www.cyrilvincent.com/image/upload-file.gif" height="100"></p>
+		<p>Les documents sont scannés par une IA Mistral (embedding) et les vecteurs résultants sont stockés dans une base de données vectorielle</p>
+		<p>Les documents ne sont pas stockés dans Retrieval.fr</p>
+		<p>&nbsp;</p>
+        <h2>Etape 2 : Le Chat</h2>
+		<p>Retrieval.fr propose un Chat qui intègre la recherche sur vos documents</p>
+		<p>Peut être une requête exclusive à vos documents ou non</p>
+		<a href="lechat.html" class="btn-secondary">Le Chat</a>
+		<p>&nbsp;</p>
+        <h2>Etape 3 : L'API</h2>
+		<p>Une API permet d'intégrer les recherchne dans vos logiciels</p>
+		<p>Disponible en Python, JS, Java et .NET.</p>
+		<p><img src="python.png" height="200"></p>
+		<a href="https://www.cyrilvincent.com/image/archi.png" class="btn-secondary">Voir l'architecture technique</a>
+      </div>
+    </div>
+  </section>
+  
+    <section class="contact-bg">
+    <div class="overlay">
+      <div class="container">
+        <h2>Contact</h2>
+		<p>Cyril Vincent - 0622538762 - contact@cyrilvincent.com</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Retrieval - Tous droits réservés</p>
+    </div>
+  </footer>
+
+  <script>
+    lucide.createIcons();
+  </script>
+</body>
+</html>
