@@ -3,3 +3,9 @@ Pytorch
 Neural
 OpenAI
 Mistral
+Rôles
+Limitations des tokens
+Contexte
+Envoyer tous le contexte dans la query
+Installation locale via docker
+Model size : https://docs.mistral.ai/getting-started/models/weights/

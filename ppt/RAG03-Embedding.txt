@@ -8,3 +8,4 @@ Vectorisation
 USE = vector512, wikipedia
 BERT
 CamenBERT = french
+CosineTransform = angle entre 2 droites sur 394 dimensions, cos car 1 = parfait
