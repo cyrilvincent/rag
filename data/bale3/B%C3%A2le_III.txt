@@ -1,0 +1,25 @@
+Cet article doit être actualisé (septembre 2018).
+Les Accords de Bâle III publiés le 16 décembre 2010 par le Comité de Bâle sont des propositions de réglementation bancaire,.
+La réforme Bâle III fait partie des initiatives prises sous l'impulsion du Conseil de stabilité financière et du G20, à la suite de la crise financière de 2007, pour renforcer le système financier, garantir un niveau minimum de capitaux propres et renforcer la solidité financière des banques.
+Elle part du constat que la sévérité de la crise s'explique en grande partie par la croissance excessive des bilans et hors bilan bancaires (via, par exemple, les produits dérivés), tandis que dans le même temps le niveau et la qualité des fonds propres destinés à couvrir les risques se dégradaient. En outre, de nombreuses institutions ne disposaient pas non plus de réserves suffisantes pour faire face à une crise de liquidité. Dans ce contexte, le système bancaire s'est révélé incapable d'absorber les pertes intervenues d'abord sur les produits structurés de titrisation et d'assumer ensuite la ré-intermédiation d'une partie des expositions de hors-bilan. Au pire de la crise, les incertitudes pesant sur la qualité des bilans, la solvabilité des banques et les risques liés à leur interdépendance (le défaut d'une institution pouvant entraîner celui d'une autre) ont provoqué une crise de défiance et de liquidité généralisée.
+Compte tenu du rôle du système financier dans le financement de l'économie réelle, du caractère international des institutions financières et du coût final supporté par les États via notamment les plans de soutien public, une intervention coordonnée des régulateurs internationaux est alors apparue légitime.
+Parmi les évolutions à venir (1er janvier 2013), on peut citer les points suivants, (encore non finalisés) :
+L'un des plans les plus importants de la réforme Bâle III est l'introduction de deux ratios de liquidité : le LCR (Liquidity Coverage Ratio) et le NSFR (Net Stable Funding Ratio (en)).
+LCR
+Stock of HQLA
+Total net cash outflows
+100
+
+NSFR
+Available amount of stable funding
+Required amount of stable funding 
+100
+Les accords de réglementation bancaire Bâle III ont ignoré le hors bilan à l'origine de la crise des subprimes. Après Bâle II jamais appliqué par les Américains, la réévaluation des seuils prudentiels par les représentants de 27 banques centrales s'est traduite par le fait que « les banques devront avoir 4,5 % au titre du capital de base — c'est-à-dire le « capital pur et dur », le core tier one du « Tier (one, two, three) » — auxquels s'ajoute un coussin dit « de conservation » de 2,5 %, soit 7 % au total ». Selon la BNP, le seuil de 7 % équivaut à un ratio de 10 % dans l'ancienne définition - à comparer aux 2 % minimum exigibles auparavant.
+En ce qui concerne le ratio de levier, il est prévu l'instauration d'un ratio de levier, devenant d'application obligatoire en 2018[Passage à actualiser], et limité à
+Avec :
+ : Capitaux propres de l'entreprise (Fonds propres dits Tier core one, ou de catégorie 1)
+ : Total des actifs, dans un premier temps, avec corrections progressives sur les dérivés, et réintégration dans le bilan  d'engagements actuellement traités de façon différente par les États-Unis et l'Europe.
+Ce chiffre est équivalent à un rapport maximal de 33:1 d'actifs sur capitaux propres.
+Les recommandations du comité de Bâle doivent être transposées en droit national d'ici au 1er janvier 2013 et les banques auront jusqu'en 2019 pour les appliquer[10].
+Plusieurs études économiques ont cherché à identifier les effets des accords de Bâle III. Une étude de la Banque de France montre, en 2022, que l'effet de l'application des accords sur la croissance est positif, quoique la phase de mise en place de l'accord puisse provoquer un ralentissement de la croissance[11].
+Une étude de McKinsey (2010) indique que l'application de Bâle III au sein de l'Union européenne provoquera une hausse des besoins en capitaux sûrs de 4 700 md€ entre 2010 et 2019. Cela pourrait avoir pour conséquence une baisse de la rentabilité du secteur bancaire ainsi qu'une hausse du coût du crédit[12].

@@ -1,0 +1,5 @@
+Pour les articles homonymes, voir McDonough.
+Le ratio McDonough (ou ratio de solvabilité bancaire) est un ratio bancaire qui fixe une limite à l'encours pondéré des prêts (et autres actifs) accordés par un établissement financier en fonction de ses capitaux propres. Inversement, il peut aussi fixer le haut de bilan (qui englobe les fonds propres, les dettes à long terme, les possibles capitalisations et fusion-acquisitions, toute ressource et emploi durable) d'une banque, en fonction de sa stratégie future.
+Le ratio McDonough succède au ratio Cooke, qui fixait un rapport de prêts par rapport aux capitaux propres de 8 % au minimum. Le ratio McDonough tient son nom du président en exercice du Comité de Bâle pendant le processus d'établissement de l'accord, William J. McDonough.
+Le ratio McDonough est plus fin que le ratio Cooke car il prend en compte le risque plus ou moins élevé des différents prêts accordés, en les divisant selon trois types : risques de crédits, risques de marché et risques opérationnels. Le niveau d'engagement des banques est ainsi limité par leur propre solidité financière.
+La formule du ratio est :

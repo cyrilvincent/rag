@@ -1,0 +1,10 @@
+Cet article sur l'économie doit être recyclé (janvier 2020).
+Cet article est une ébauche concernant la finance.
+Les fonds propres réglementaires correspondent aux fonds propres que doivent détenir les établissements financiers en lien avec l'exigence réglementaire définie par le Comité de Bâle.
+Historique sur les accords internationaux (Bâle I, puis Bâle II dit Mc Donough)
+Le Tier 1 correspond à la partie jugée la plus solide (le noyau dur) des capitaux propres des institutions financières. Le ratio correspond au rapport entre le Tier 1 et le total des actifs ajustés du risque est un ratio financier qualifiant le risque d'instabilité de ces institutions en cas de crise financière. La notion a été définie par les accords de Bâle 1 : le minimum requis selon les accords de Bâle I est de 4 %. La crise financière mondiale débutant en 2007 a montré l'importance de la qualité des fonds propres pour mieux garantir la stabilité des systèmes bancaires mondial pour le peu de qualité des fonds Propres.
+Tenir compte de trois éléments :
+Pondération des titres en fonction de leurs taux de risques spécifiques
+Somme risques / Govies, Financial et Corporates * 0.08
+Securities Lending * 0.08
+Pondération 15 % de la moyenne du résultat net bancaire sur les 3 dernières années

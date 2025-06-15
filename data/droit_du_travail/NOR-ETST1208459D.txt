@@ -1,0 +1,508 @@
+Décret n° 2012-639 du 4 mai 2012 relatif aux risques d'exposition à l'amiante
+NOR : ETST1208459D
+Accéder à la version consolidée
+ELI : https://www.legifrance.gouv.fr/eli/decret/2012/5/4/ETST1208459D/jo/texte
+Alias : https://www.legifrance.gouv.fr/eli/decret/2012/5/4/2012-639/jo/texte
+JORF n°0106 du 5 mai 2012
+Texte n° 56
+Extrait du Journal officiel électronique authentifié
+PDF - 402,7 Ko
+Recherche simple dans le codeRechercher dans le texte...
+Rechercher dans le texte...
+Valider la rechercheRéinitialiser
+
+ChronoLégi
+Version à la date
+d'aujourd'hui
+ou du (JJ/MM/AAAA)
+05/05/2012
+valider la recherche à la date
+Voir les modifications dans le temps
+Version initiale
+
+
+Publics concernés : employeurs et travailleurs qui réalisent des travaux de retrait ou d'encapsulage de matériaux contenant de l'amiante ou qui effectuent des interventions sur des matériaux susceptibles de provoquer l'émission de fibres d'amiante.
+Objet : protection des travailleurs contre les risques d'exposition à l'amiante.
+Entrée en vigueur : le texte entre en vigueur le 1er juillet 2012 pour ses principales dispositions.
+Notice : le décret précise, conformément aux articles L. 4111-6 et L. 4412-1 du code du travail, les modalités selon lesquelles la protection des travailleurs contre les risques d'exposition à l'amiante est assurée, notamment en ce qui concerne la détermination de la valeur limite d'exposition professionnelle, les conditions du contrôle du respect de cette valeur limite ainsi que les modalités de mesurage des empoussièrements. Le décret fixe, en outre, les règles techniques, les moyens de prévention collective et les types d'équipements individuels nécessaires à la protection des travailleurs contre ces expositions. Il prévoit, par ailleurs, un dispositif unique de certification des entreprises d'encapsulage (terme défini par le décret) ou de retrait de matériaux contenant de l'amiante.
+Références : les dispositions du code du travail modifiées par le présent décret peuvent être consultées, dans leur rédaction issue de cette modification, sur le site Légifrance (http://www.legifrance.gouv.fr).
+Le Premier ministre,
+Sur le rapport du ministre du travail, de l'emploi et de la santé,
+Vu le code de la construction et de l'habitation, notamment son article R. 111-45 ;
+Vu le code de l'environnement, notamment son article L. 541-1 ;
+Vu le code de la santé publique, notamment ses articles R. 1334-25 à R. 1334-29-3 ;
+Vu le code du travail, notamment ses articles L. 4111-6 et L. 4412-1 ;
+Vu le décret n° 77-1321 du 29 novembre 1977 relatif aux travaux réalisés dans un établissement par une entreprise extérieure ;
+Vu le décret n° 88-466 du 28 avril 1988 relatif aux produits contenant de l'amiante ;
+Vu le décret n° 98-332 du 29 avril 1998 relatif à la prévention des risques dus à l'amiante à bord des navires ;
+Vu l'avis du conseil d'orientation sur les conditions de travail (commission générale) en date du 15 février 2012 ;
+Vu l'avis du comité des finances locales (commission consultative d'évaluation des normes) en date du 12 avril 2012 ;
+Le Conseil d'Etat (section sociale) entendu,
+Décrète :
+
+Article 1
+
+Les dispositions de la section 3 du chapitre II du titre Ier du livre IV de la quatrième partie du code du travail sont remplacées par les dispositions suivantes :
+
+
+« Section 3
+
+
+
+
+« Risques d'exposition à l'amiante
+
+
+
+
+« Sous-section 1
+
+
+
+
+« Champ d'application et définitions
+
+
+« Art. R. 4412-94.-Les dispositions de la présente section s'appliquent :
+« 1° Aux travaux de retrait ou d'encapsulage d'amiante et de matériaux, d'équipements et de matériels ou d'articles en contenant, y compris dans les cas de démolition ;
+« 2° Aux interventions sur des matériaux, des équipements, des matériels ou des articles susceptibles de provoquer l'émission de fibres d'amiante.
+« Art. R. 4412-95.-Indépendamment des dispositions de la présente section, les travaux et interventions mentionnés à l'article R. 4412-94 sont soumis aux dispositions applicables aux agents chimiques dangereux, y compris les dispositions particulières relatives à la prévention des risques d'exposition aux agents cancérogènes, mutagènes et toxiques pour la reproduction de la section II, à l'exception du contrôle de l'exposition prévu par les articles R. 4412-27 à R. 4412-32 et R. 4412-76 à R. 4412-82.
+« Art. R. 4412-96.-Pour l'application de la présente section, on entend par :
+« 1° Chantier test : le premier chantier au cours duquel est déterminé le niveau d'empoussièrement d'un processus donné ;
+« 2° Confinement : l'isolement de la zone de travail vis-à-vis de l'environnement extérieur évitant la dispersion des fibres ;
+« 3° Décontamination (travailleurs, matériel, déchets) : la procédure concourant à la protection collective contre la dispersion de fibres d'amiante hors de la zone de travaux et qui, pour la décontamination des travailleurs, est composée, notamment, du douchage des équipements de protection individuelle utilisés, de leur retrait et du douchage d'hygiène ;
+« 4° Donneur d'ordre : le chef d'entreprise utilisatrice, mentionné à l'article R. 4511-1 et par le décret n° 77-1321 du 29 novembre 1977 relatif aux travaux réalisés dans un établissement par une entreprise extérieure, ou le maître d'ouvrage mentionné à l'article L. 4531-1 ou l'armateur, mentionné par le décret n° 98-332 du 29 avril 1998 relatif à la prévention des risques dus à l'amiante à bord des navires ;
+« 5° Encapsulage : tous les procédés mis en œuvre, tels que encoffrement, doublage, fixation par revêtement, imprégnation, en vue de traiter et de conserver, de manière étanche, l'amiante en place et les matériaux en contenant afin d'éviter la dispersion de fibres d'amiante dans l'atmosphère ;
+« 6° Niveau d'empoussièrement : le niveau de concentration en fibres d'amiante généré par un processus de travail dans la zone de respiration du travailleur, à l'extérieur de l'appareil de protection respiratoire, en fonction duquel sont organisés et mis en œuvre les règles techniques, les moyens de protection collective et les équipements de protection individuelle ;
+« 7° Opération : l'un des travaux ou interventions mentionnés à l'article R. 4412-94 ;
+« 8° Phases opérationnelles : les parties de l'opération, simultanées ou successives, susceptibles d'engendrer différents niveaux d'empoussièrement ;
+« 9° Processus : les techniques et modes opératoires utilisés, compte tenu des caractéristiques des matériaux concernés et des moyens de protection collective mis en œuvre ;
+« 10° Vacation : la période durant laquelle le travailleur porte de manière ininterrompue un appareil de protection respiratoire ;
+« 11° Zone de récupération : l'espace à l'extérieur de la zone polluée dans lequel le port d'un équipement de protection individuelle n'est pas nécessaire pour assurer la protection de la santé du travailleur.
+
+
+« Sous-section 2
+
+
+
+
+« Dispositions communes à toutes les activités
+comportant des risques d'exposition à l'amiante
+
+
+
+
+« Paragraphe 1
+
+
+
+
+« Evaluation initiale des risques
+
+
+« Art. R. 4412-97.-Dans le cadre de l'évaluation des risques, prévue aux articles L. 4121-3 et L. 4531-1, le donneur d'ordre joint les dossiers techniques prévus aux articles R. 1334-29-4 à R. 1334-29-6 du code de la santé publique et R. 111-45 du code de la construction et de l'habitation aux documents de consultation des entreprises.
+« Pour les opérations ne relevant pas des articles R. 1334-29-4 à R. 1334-29-6 du code de la santé publique et R. 111-45 du code de la construction et de l'habitation, le donneur d'ordre joint aux documents de consultation des entreprises tout document équivalent permettant le repérage des matériaux contenant de l'amiante, y compris ceux relevant de ses obligations au titre de l'article L. 541-1 du code de l'environnement.
+« Au vu des informations qui lui ont été données, l'employeur réalise son évaluation des risques, conformément à l'article L. 4121-2.
+« Art. R. 4412-98.-Pour l'évaluation des risques, l'employeur estime le niveau d'empoussièrement correspondant à chacun des processus de travail et les classes selon les trois niveaux suivants :
+« a) Premier niveau : empoussièrement dont la valeur est inférieure à la valeur limite d'exposition professionnelle ;
+« b) Deuxième niveau : empoussièrement dont la valeur est supérieure ou égale à la valeur limite d'exposition professionnelle et inférieure à 60 fois la valeur limite d'exposition professionnelle ;
+« c) Troisième niveau : empoussièrement dont la valeur est supérieure ou égale à 60 fois la valeur limite d'exposition professionnelle et inférieure à 250 fois la valeur limite d'exposition professionnelle.
+« Art. R. 4412-99.-L'employeur transcrit les résultats de son évaluation des risques pour chaque processus dans le document unique d'évaluation des risques. Il le met à jour à chaque modification de processus entraînant un changement de niveau d'empoussièrement ou lors de l'introduction de nouveaux processus.
+
+
+« Paragraphe 2
+
+
+
+
+« Valeur limite d'exposition professionnelle
+
+
+« Art. R. 4412-100.-La concentration moyenne en fibres d'amiante, sur huit heures de travail, ne dépasse pas dix fibres par litre. Elle est contrôlée dans l'air inhalé par le travailleur.
+« Art. R. 4412-101.-L'employeur s'assure du respect de la valeur limite d'exposition professionnelle pour l'ensemble des travailleurs exposés, compte tenu de l'évaluation des risques.
+« Art. R. 4412-102.-Les conditions et les résultats des contrôles sont communiqués par l'employeur au médecin du travail et au comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, aux délégués du personnel.
+« Ils sont tenus à la disposition de l'inspecteur du travail, du médecin inspecteur du travail ainsi que des agents des services de prévention des organismes de sécurité sociale compétents.
+
+
+« Paragraphe 3
+
+
+
+
+« Conditions de mesurage des empoussièrements
+et de contrôle de la valeur limite d'exposition professionnelle
+
+
+« Art. R. 4412-103.-Pour procéder à la stratégie d'échantillonnage, aux prélèvements et aux analyses, l'employeur fait appel à un même organisme accrédité. Il lui communique, à cette fin, toutes données utiles et, en accord avec le donneur d'ordre, lui donne accès aux lieux concernés par les opérations.
+« L'organisme choisi est indépendant des entreprises qu'il contrôle.
+« Art. R. 4412-104.-Les prélèvements individuels sont réalisés en situation significative d'exposition des travailleurs à l'inhalation des poussières d'amiante, en intégrant les différentes phases opérationnelles.
+« Art. R. 4412-105.-L'employeur consulte le médecin du travail, le comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, les délégués du personnel sur le projet de stratégie d'échantillonnage établi par l'organisme de contrôle. Les avis qu'ils émettent sont transmis par l'employeur à l'organisme de contrôle.
+« Art. R. 4412-106.-L'empoussièrement est mesuré selon la méthode de microscopie électronique à transmission analytique (META).
+
+
+« Paragraphe 4
+
+
+
+
+« Principes et moyens de prévention
+
+
+« Art. R. 4412-107.-L'employeur informe le donneur d'ordre de toute présence d'amiante mise en évidence lors de l'opération.
+« Art. R. 4412-108.-Afin de réduire au niveau le plus bas techniquement possible la durée et le niveau d'exposition des travailleurs et pour garantir l'absence de pollution des bâtiments, équipements, structures, installations dans lesquels ou dans l'environnement desquels les opérations sont réalisées, l'employeur met en œuvre :
+« 1° Des techniques et des modes opératoires de réduction de l'empoussièrement tels que le travail robotisé en système clos, la réduction de la volatilité des fibres d'amiante par l'imprégnation à cœur des matériaux contenant de l'amiante avec des agents mouillants, le démontage des éléments par découpe ou déconstruction ;
+« 2° Les mesures nécessaires de confinement et de limitation de la diffusion des fibres d'amiante à l'extérieur de la zone des opérations, notamment en mettant à disposition des travailleurs les moyens de décontamination appropriés et en définissant la procédure de décontamination à mettre en œuvre.
+« Art. R. 4412-109.-Au cours de la phase de préparation de l'opération, l'employeur met en place des moyens de protection collective adaptés à la nature des opérations à réaliser permettant d'éviter la dispersion de fibres d'amiante en dehors de la zone de travail et d'abaisser la concentration en fibres d'amiante au niveau le plus bas techniquement possible.
+« Ces moyens comprennent :
+« 1° L'abattage des poussières ;
+« 2° L'aspiration des poussières à la source ;
+« 3° La sédimentation continue des fibres en suspension dans l'air ;
+« 4° Les moyens de décontamination appropriés.
+« Art. R. 4412-110.-Selon les niveaux d'empoussièrement définis par les articles R. 4412-96 et R. 4412-98, l'employeur met à disposition des travailleurs des équipements de protection individuelle adaptés aux opérations à réaliser.
+« Art. R. 4412-111.-L'employeur assure le maintien en état et le renouvellement des moyens de protection collective et des équipements de protection individuelle de façon à garantir pendant toute la durée de l'opération le niveau d'empoussièrement le plus bas possible et, en tout état de cause, conforme à celui qu'il a indiqué dans le document prévu par l'article R. 4412-99.
+« Un arrêté du ministre chargé du travail détermine les conditions de choix, d'entretien et de vérification périodique :
+« 1° Des moyens de protection collective ;
+« 2° Des équipements de protection individuelle.
+« Art. R. 4412-112.-L'employeur prend toutes mesures appropriées pour que la zone dédiée à l'opération soit signalée et inaccessible à des personnes autres que celles qui, en raison de leur travail ou de leur fonction, sont amenées à y pénétrer.
+« Cette signalétique mentionne notamment le niveau d'empoussièrement estimé des opérations réalisées et les équipements de protection individuelle obligatoires.
+« Art. R. 4412-113.-Un arrêté du ministre chargé du travail précise selon les niveaux d'empoussièrement estimés et les processus mis en œuvre, en fonction de l'évolution des techniques d'organisation et de protection :
+« 1° Les règles techniques que respectent les entreprises qui réalisent des opérations ;
+« 2° Les moyens de protection collective ;
+« 3° Les équipements de protection individuelle ;
+« 4° Les mesures de protection de l'environnement du chantier ;
+« 5° Les dispositions applicables en fin de travaux.
+« Art. R. 4412-114.-Lorsque l'employeur constate que le niveau d'empoussièrement dépasse le niveau estimé dans le document unique d'évaluation des risques et que, par suite, le respect de la valeur limite d'exposition professionnelle n'est plus garanti, il suspend les opérations jusqu'à la mise en œuvre de mesures propres à remédier à cette situation. Afin de vérifier l'efficacité de ces mesures, il procède sans délai à un nouveau contrôle du niveau d'empoussièrement.
+« Art. R. 4412-115.-Lorsque, durant l'exécution des opérations, le niveau d'empoussièrement constaté est supérieur au troisième niveau, l'employeur suspend les opérations et alerte le donneur d'ordre, l'inspecteur du travail et l'agent des services de prévention des organismes de sécurité sociale. Il met en œuvre des moyens visant à réduire le niveau d'empoussièrement.
+
+
+« Paragraphe 5
+
+
+
+
+« Information et formation des travailleurs
+
+
+« Art. R. 4412-116.-La notice de poste prévue à l'article R. 4412-39 est transmise pour avis au médecin du travail. Cet avis est communiqué au comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, aux délégués du personnel.
+« Art. R. 4412-117.-La formation à la sécurité prévue à l'article R. 4412-87 est aisément compréhensible par le travailleur.
+« L'organisme de formation ou l'employeur valide les acquis de la formation sous la forme d'une attestation de compétence individuelle délivrée au travailleur.
+« Le contenu et les modalités de la formation, sa durée selon les catégories de travailleurs et les conditions de sa validation et de son renouvellement sont précisés par un arrêté du ministre chargé du travail.
+
+
+« Paragraphe 6
+
+
+
+
+« Organisation du travail
+
+
+« Art. R. 4412-118.-L'employeur détermine en tenant compte des conditions de travail, notamment en termes de contraintes thermiques ou hygrométriques, de postures et d'efforts :
+« 1° La durée de chaque vacation ;
+« 2° Le nombre de vacations quotidiennes ;
+« 3° Le temps nécessaire aux opérations d'habillage, de déshabillage et de décontamination des travailleurs au sein des installations prévues à cet effet ;
+« 4° Le temps de pause après chaque vacation, qui s'ajoute au temps de pause prévu à l'article L. 3121-33.
+« Il consulte le médecin du travail, le comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, les délégués du personnel sur ces dispositions.
+« Art. R. 4412-119.-La durée maximale d'une vacation n'excède pas deux heures trente.
+« La durée maximale quotidienne des vacations n'excède pas six heures.
+
+
+« Paragraphe 7
+
+
+
+
+« Suivi de l'exposition
+
+
+« Art. R. 4412-120.-L'employeur établit, pour chaque travailleur exposé, une fiche d'exposition à l'amiante indiquant :
+« 1° La nature du travail réalisé, les caractéristiques des matériaux et appareils en cause, les périodes de travail au cours desquelles il a été exposé et les autres risques ou nuisances d'origine chimique, physique ou biologique du poste de travail ;
+« 2° Les dates et les résultats des contrôles de l'exposition au poste de travail ainsi que la durée et l'importance des expositions accidentelles ;
+« 3° Les procédés de travail utilisés ;
+« 4° Les moyens de protection collective et les équipements de protection individuelle utilisés.
+
+
+« Paragraphe 8
+
+
+
+
+« Traitement des déchets
+
+
+« Art. R. 4412-121.-Les déchets de toute nature susceptibles de libérer des fibres d'amiante sont conditionnés et traités de manière à ne pas provoquer d'émission de poussières pendant leur manutention, leur transport, leur entreposage et leur stockage.
+« Art. R. 4412-122.-Les déchets sont :
+« 1° Ramassés au fur et à mesure de leur production ;
+« 2° Conditionnés dans des emballages appropriés et fermés, avec apposition de l'étiquetage prévu par le décret n° 88-466 du 28 avril 1988 relatif aux produits contenant de l'amiante et par le code de l'environnement notamment en ses articles R. 551-1 à R. 551-13 relatifs aux dispositions générales relatives à tous les ouvrages d'infrastructures en matière de stationnement, chargement ou déchargement de matières dangereuses ;
+« 3° Evacués après décontamination hors du chantier aussitôt que possible dès que le volume le justifie.
+« Art. R. 4412-123.-Les déchets sont transportés et éliminés conformément à la réglementation en vigueur.
+
+
+« Paragraphe 9
+
+
+
+
+« Protection de l'environnement du chantier
+
+
+« Art. R. 4412-124.-Le dépassement du seuil fixé par l'article R. 1334-29-3 du code de la santé publique dans les bâtiments, les équipements, les installations ou les structures dans lesquels ou dans l'environnement desquels l'opération est réalisée entraîne sans délai l'arrêt des opérations et la mise en place des mesures correctrices et préventives permettant le respect de ce seuil.
+« L'employeur informe sans délai le donneur d'ordre ainsi que le préfet compétent à raison du lieu du chantier, du dépassement, de ses causes et des mesures prises pour y remédier.
+
+
+« Sous-section 3
+
+
+
+
+« Dispositions spécifiques aux activités d'encapsulage
+et de retrait d'amiante ou d'articles en contenant
+
+
+
+
+« Paragraphe 1
+
+
+
+
+« Champ d'application
+
+
+« Art. R. 4412-125.-Les dispositions de la présente sous-section s'appliquent aux travaux mentionnés au 1° de l'article R. 4412-94.
+
+
+« Paragraphe 2
+
+
+
+
+« Evaluation des risques
+et mesurage des empoussièrements
+
+
+« Art. R. 4412-126.-L'employeur détermine le niveau d'empoussièrement généré par chaque processus de travail conformément aux dispositions du paragraphe 3 de la sous-section 2.
+« A cette fin, il met en œuvre un programme de mesure des niveaux d'empoussièrement générés par ses processus qui comprend deux phases :
+« 1° Une phase d'évaluation du niveau d'empoussièrement faite sur le chantier test ;
+« 2° Une phase de validation de cette évaluation par un contrôle périodique réalisé sur au moins trois chantiers par processus sur douze mois.
+« Si l'employeur est dans l'incapacité de valider son évaluation en raison d'un nombre insuffisant de chantiers par processus, l'absence de validation est dûment justifiée dans le plan de démolition, de retrait ou d'encapsulage.
+« Art. R. 4412-127.-Préalablement aux travaux, l'employeur procède au contrôle de l'état initial de l'empoussièrement de l'air en fibres d'amiante conformément aux dispositions de l'article R. 1334-25 du code de la santé publique.
+« Art. R. 4412-128.-Afin de s'assurer de l'absence de dispersion de fibres d'amiante dans l'environnement du chantier et des locaux adjacents, l'employeur vérifie le respect de la valeur fixée à l'article R. 1334-29-3 du code de la santé publique par des mesures d'empoussièrement réalisées :
+« 1° Dans la zone d'approche de la zone de travail ;
+« 2° Dans la zone de récupération ;
+« 3° En des points du bâtiment dans lequel se déroulent les travaux ;
+« 4° A proximité des extracteurs dans la zone de leur rejet ;
+« 5° En limite de périmètre du site des travaux pour les travaux effectués à l'extérieur.
+
+
+« Paragraphe 3
+
+
+
+
+« Certification des entreprises
+
+
+« Art. R. 4412-129.-Pour réaliser les travaux prévus par la présente sous-section, le donneur d'ordre fait appel à une entreprise justifiant de sa capacité à réaliser ces travaux par l'obtention de la certification délivrée par des organismes certificateurs.
+« Art. R. 4412-130.-La détermination des activités de l'entreprise qui font l'objet de la certification par les organismes certificateurs est effectuée sur la base du document unique d'évaluation des risques prévu à l'article R. 4121-1.
+« Les organismes certificateurs ont accès à ce document.
+« Art. R. 4412-131.-Un arrêté du ministre chargé du travail détermine :
+« 1° Les conditions et procédures d'accréditation des organismes certificateurs mentionnés à l'article R. 4412-129 sur la base du référentiel technique de l'organisme chargé de l'accréditation ;
+« 2° Les procédures et critères de certification des entreprises, en tenant compte, notamment, des moyens humains disponibles, des procédures d'organisation, des équipements et des techniques utilisés, ainsi que les conditions de délivrance de la certification sur la base du référentiel technique défini par les organismes chargés de la certification.
+« Art. R. 4412-132.-Une entreprise d'un Etat membre de l'Union européenne non établie en France peut effectuer les travaux prévus par la présente sous-section si elle dispose d'un certificat délivré par cet Etat sur le fondement d'un référentiel offrant des garanties similaires à celles résultant du présent paragraphe et attestant de sa compétence pour mettre en œuvre toute méthode normalisée ou assimilée, applicable sur le territoire national, dans le domaine au titre duquel elle intervient.
+
+
+« Paragraphe 4
+
+
+
+
+« Plan de démolition, de retrait
+ou d'encapsulage
+
+
+« Art. R. 4412-133.-En fonction de l'évaluation des risques, l'employeur établit un plan de démolition, de retrait ou d'encapsulage qui est tenu à disposition sur le lieu des travaux.
+« Ce plan est établi en fonction du périmètre du marché de travaux auxquels il correspond. Il précise notamment :
+« 1° La localisation de la zone à traiter ;
+« 2° Les quantités d'amiante manipulées ;
+« 3° Le lieu et la description de l'environnement de chantier où les travaux sont réalisés ;
+« 4° La date de commencement et la durée probable des travaux ;
+« 5° Le nombre de travailleurs impliqués ;
+« 6° Le descriptif du ou des processus mis en œuvre ;
+« 7° Le programme de mesures d'empoussièrement du ou des processus mis en œuvre ;
+« 8° Les modalités des contrôles d'empoussièrement définis aux articles R. 4412-126 à R. 4412-128 ;
+« 9° Les caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs ainsi que celles des moyens de protection des autres personnes qui se trouvent sur le lieu ou à proximité des travaux ;
+« 10° Les caractéristiques des équipements utilisés pour l'évacuation des déchets ;
+« 11° Les procédures de décontamination des travailleurs et des équipements ;
+« 12° Les procédures de gestion des déblais, des remblais et des déchets ;
+« 13° Les durées et temps de travail déterminés en application des articles R. 4412-118 et R. 4412-119 ;
+« 14° Les dossiers techniques prévus à l'article R. 4412-97 ;
+« 15° Les notices de poste prévues à l'article R. 4412-39 ;
+« 16° Un bilan aéraulique prévisionnel, établi par l'employeur, pour les travaux réalisés sous confinement aux fins de prévoir et de dimensionner le matériel nécessaire à la maîtrise des flux d'air ;
+« 17° La liste récapitulative des travailleurs susceptibles d'être affectés au chantier. Elle mentionne les dates de validité des attestations de compétence des travailleurs, les dates de visites médicales et précise le nom des travailleurs sauveteurs secouristes du travail affectés, le cas échéant, au chantier ainsi que les dates de validité de leur formation ;
+« 18° Dans le cas d'une démolition, les modalités de retrait préalable de l'amiante et des articles en contenant ou les justifications de l'absence de retrait conformément à l'article R. 4412-135 ;
+« La modification du marché de travaux ou des processus entraîne une modification du plan de démolition, de retrait ou d'encapsulage par le biais d'un avenant.
+« Art. R. 4412-134.-Le plan de démolition, de retrait ou d'encapsulage est tenu à disposition sur le chantier et peut être consulté par :
+« 1° Les membres du comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, les délégués du personnel ;
+« 2° Le médecin du travail ou les membres de l'équipe pluridisciplinaire des services de santé au travail ;
+« 3° L'inspecteur du travail ;
+« 4° Les agents des services de prévention des organismes de sécurité sociale ;
+« 5° Les agents de l'organisme professionnel de prévention du bâtiment et des travaux publics ;
+« 6° Les auditeurs des organismes certificateurs.
+« Art. R. 4412-135.-Dans le cas d'une démolition, le plan de démolition prévoit le retrait préalable de l'amiante et des articles en contenant sauf lorsque celui-ci causerait un plus grand risque pour les travailleurs que si l'amiante ou les matériaux en contenant étaient laissés sur place.
+« Art. R. 4412-136.-Les plans de démolition, de retrait ou d'encapsulage sont communiqués une fois par trimestre au médecin du travail, au comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, aux délégués du personnel.
+« Art. R. 4412-137.-Un mois avant le démarrage des travaux, l'employeur informe l'inspecteur du travail et l'agent des services de prévention des organismes de sécurité sociale dont le ressort territorial est celui du lieu des travaux ainsi que, le cas échéant, l'organisme professionnel de prévention du bâtiment et des travaux publics. Il leur adresse à ce titre le plan de démolition, de retrait ou d'encapsulage sur tout support adapté et par tout moyen permettant d'établir la date certaine de réception.
+« En cas de travaux justifiés par une situation d'urgence liée à un sinistre, ce délai peut être réduit à huit jours.
+« Sur leur demande, l'employeur le transmet également aux organismes certificateurs.
+« Art. R. 4412-138.-L'employeur informe l'inspecteur du travail et l'agent des services de prévention des organismes de sécurité sociale de tout changement dans les conditions de travail, de toute modification du marché de travaux ou du processus ainsi que de l'ajout d'un nouveau processus susceptible d'entraîner une augmentation significative des niveaux d'empoussièrement. Il précise les mesures d'organisation et de prévention retenues pour la protection des travailleurs et de l'environnement.
+« Sur leur demande, l'employeur en informe également les organismes certificateurs.
+« L'inspecteur du travail et l'agent des services de prévention des organismes de sécurité sociale sont également informés de tout changement dans la date de démarrage des travaux.
+
+
+« Paragraphe 5
+
+
+
+
+« Dispositions applicables en fin de travaux
+
+
+« Art. R. 4412-139.-En fin de travaux, l'employeur établit un rapport de fin de travaux contenant tous les éléments relatifs au déroulement des travaux notamment les mesures de niveau d'empoussièrement, les certificats d'acceptation préalable des déchets et les plans de localisation de l'amiante mis à jour.
+« Le rapport de fin de travaux est remis au donneur d'ordre qui l'intègre, le cas échéant, au dossier des interventions ultérieures sur l'ouvrage. Il peut être consulté dans les conditions prévues à l'article R. 4412-134.
+« Art. R. 4412-140.-Avant toute restitution de la zone et préalablement à l'enlèvement de tout dispositif de confinement, total ou partiel, l'employeur procède :
+« 1° A un examen incluant l'ensemble des zones susceptibles d'avoir été polluées ;
+« 2° Au nettoyage approfondi de la zone par aspiration avec un équipement doté d'un dispositif de filtration à haute efficacité ;
+« 3° A une mesure du niveau d'empoussièrement ;
+« 4° A la fixation des fibres éventuellement résiduelles sur les parties traitées.
+
+
+« Paragraphe 6
+
+
+
+
+« Formation
+
+
+« Art. R. 4412-141.-La formation des travailleurs prévue aux articles R. 4412-87 et R. 4412-117 est assurée par un organisme certifié à cet effet.
+« L'attestation de compétence prévue à l'article R. 4412-116 est délivrée par l'organisme de formation certifié.
+« Art. R. 4412-142.-Un arrêté du ministre chargé du travail détermine :
+« 1° Les conditions, procédures et critères d'accréditation des organismes certificateurs sur la base du référentiel technique défini par l'organisme chargé de l'accréditation ;
+« 2° Les conditions, procédures et critères de certification des organismes de formation mentionnés à l'article R. 4412-141, en tenant compte notamment de leur qualification, des méthodes de formation, des moyens et des techniques pédagogiques mis en œuvre ainsi que les conditions de délivrance de l'attestation de compétence sur la base du référentiel technique défini par les organismes chargés de la certification.
+« Art. R. 4412-143.-Un organisme de formation d'un Etat membre de l'Union européenne non établi en France peut effectuer des prestations de service mentionnées dans le présent paragraphe s'il dispose dans cet Etat, sur le fondement d'un référentiel offrant les mêmes garanties que celles prévues au présent paragraphe, de la compétence pour dispenser une formation des travailleurs.
+
+
+« Sous-section 4
+
+
+
+
+« Dispositions particulières aux interventions sur des matériaux, des équipements, des matériels ou des articles susceptibles de provoquer l'émission de fibres d'amiante
+
+
+« Paragraphe 1
+
+
+
+
+« Champ d'application
+
+
+« Art. R. 4412-144.-Les dispositions de la présente sous-section s'appliquent aux travaux mentionnés au 2° de l'article R. 4412-94.
+
+
+« Paragraphe 2
+
+
+
+
+« Définition d'un mode opératoire
+
+
+« Art. R. 4412-145.-En fonction des résultats de l'évaluation initiale des risques prévue à la sous-section 2, pour chaque processus mis en œuvre, l'employeur établit un mode opératoire précisant notamment :
+« 1° La nature de l'intervention ;
+« 2° Les matériaux concernés ;
+« 3° La fréquence et les modalités de contrôle du niveau d'empoussièrement du processus mis en œuvre et du respect de la valeur limite d'exposition professionnelle ;
+« 4° Le descriptif des méthodes de travail et moyens techniques mis en œuvre ;
+« 5° Les notices de poste prévues à l'article R. 4412-39 ;
+« 6° Les caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs ainsi que celles des moyens de protection des autres personnes qui se trouvent sur le lieu ou à proximité de l'intervention ;
+« 7° Les procédures de décontamination des travailleurs et des équipements ;
+« 8° Les procédures de gestion des déchets ;
+« 9° Les durées et temps de travail déterminés en application des articles R. 4412-118 et R. 4412-119.
+« Le mode opératoire est annexé au document unique d'évaluation des risques.
+« Art. R. 4412-146.-Le mode opératoire est soumis, lors de son établissement ou de sa modification à l'avis du médecin du travail, du comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, des délégués du personnel.
+« Art. R. 4412-147.-Le mode opératoire est transmis à l'inspecteur du travail et aux agents des services de prévention des organismes de sécurité sociale, dans le ressort territorial desquels est situé l'établissement et, le cas échéant, à l'organisme professionnel de prévention du bâtiment et des travaux publics.
+« Une nouvelle transmission est faite lors de sa mise à jour.
+« Avant la première mise en œuvre du mode opératoire, celui-ci est transmis à l'inspecteur du travail et aux agents des services de prévention des organismes de sécurité sociale dans le ressort territorial desquels est situé le lieu de l'intervention et, le cas échéant, à l'organisme professionnel de prévention du bâtiment et des travaux publics.
+« Art. R. 4412-148.-Lorsque la durée prévisible de l'intervention est supérieure à cinq jours, l'employeur transmet, en outre, à l'inspecteur du travail et au service de prévention de l'organisme de sécurité sociale du lieu de l'intervention ainsi que, le cas échéant, à l'office professionnel de prévention du bâtiment et des travaux publics :
+« 1° Le lieu, la date de commencement et la durée probable de l'intervention ;
+« 2° La localisation de la zone à traiter, la description de l'environnement de travail du lieu de l'intervention ;
+« 3° Les dossiers techniques prévus à l'article R. 4412-97 ;
+« 4° La liste des travailleurs impliqués. Cette liste mentionne les dates de délivrance des attestations de compétence des travailleurs, les dates de visite médicale et précise, le cas échéant, le nom des travailleurs sauveteurs secouristes du travail affectés au chantier ainsi que les dates de validité de leur formation. »
+
+Versions 
+Liens relatifs 
+Article 2
+
+A l'alinéa 2 de l'article R. 4511-8, à l'alinéa premier de l'article R. 4512-11 et à l'alinéa premier de l'article R. 4532-7 du code du travail, la référence aux articles R. 1334-22, R. 1334-27 et R. 1334-28 du code de la santé publique est remplacée par la référence à l'article R. 4412-97 du code du travail.
+
+Versions 
+Liens relatifs 
+Article 3
+
+A l'alinéa 1 de l'article R. 4535-10 du code du travail, la référence aux articles R. 4412-97, R. 4412-101, R. 4412-105 à R. 4412-109 du même code est remplacée par la référence aux articles R. 4412-114 et R. 4412-118 de ce code.
+
+Versions 
+Liens relatifs 
+Article 4
+
+L'article R. 4724-14 du code du travail est remplacé par les dispositions suivantes :
+« Art. R. 4724-14.-Un arrêté du ministre chargé du travail détermine :
+« 1° Les conditions de mesurage des niveaux d'empoussièrement des processus mis en œuvre par les entreprises ;
+« 2° Les conditions de contrôle du respect de la valeur limite d'exposition professionnelle ;
+« 3° Les conditions d'accréditation des organismes procédant au mesurage des niveaux d'empoussièrement selon le référentiel technique défini par l'organisme chargé de l'accréditation pour la stratégie d'échantillonnage, le prélèvement et l'analyse.»
+
+Versions 
+Article 5
+
+Le présent décret entre en vigueur le 1er juillet 2012.
+Ses dispositions s'appliquent aux opérations pour lesquelles le dossier de consultation relatif au marché est publié à compter de cette date.
+Toutefois, jusqu'au 1er juillet 2015, la valeur limite d'exposition professionnelle prévue à l'article R. 4412-100 du code du travail est fixée à une concentration en fibres d'amiante dans l'air inhalé de cent fibres par litre évaluée sur une moyenne de huit heures de travail.
+
+Versions 
+Liens relatifs 
+Article 6
+
+I. - Les dispositions de l'article R. 4412-103 du code du travail entrent en vigueur le 1er juillet 2013.
+II. - Jusqu'au 30 juin 2013, sont réputés satisfaire aux exigences du présent décret :
+1° Pour le prélèvement, les organismes accrédités en application de l'article R. 4724-14 du code du travail dans sa rédaction antérieure au présent décret ;
+2° Pour l'analyse, les organismes accrédités en application de l'article R. 1334-25 du code de la santé publique ;
+3° Les entreprises certifiées au 1er juillet 2012 en application de l'article R. 4412-116 du code du travail dans sa rédaction antérieure au présent décret ;
+4° Les entreprises non titulaires d'une certification au 1er juillet 2012 répondant aux exigences de la norme NFX 46-010 « Amiante friable. ― Qualification des entreprises réalisant des travaux de traitement de l'amiante friable. ― Référentiel technique d'octobre 2004 ».
+III. - Les dispositions de l'article R. 4412-129 s'appliquent :
+1° Au 1er juillet 2013 pour les entreprises effectuant le retrait de l'enveloppe extérieure des immeubles bâtis ;
+2° Au 1er juillet 2014 pour les entreprises de génie civil.
+
+Versions 
+Liens relatifs 
+Article 7
+
+Le ministre du travail, de l'emploi et de la santé est chargé de l'exécution du présent décret, qui sera publié au Journal officiel de la république française.
+
+Versions 
+
+Fait le 4 mai 2012.
+
+
+François Fillon
+
+
+Par le Premier ministre :
+
+
+Le ministre du travail,
+de l'emploi et de la santé,
+Xavier Bertrand
+
+Extrait du Journal officiel électronique authentifié
+PDF - 402,7 Ko

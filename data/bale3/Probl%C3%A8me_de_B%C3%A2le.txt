@@ -1,0 +1,81 @@
+En mathématiques, le problème de Bâle (connu parfois aussi sous le nom de problème de Mengoli) est un célèbre problème d'analyse, qui consiste à déterminer la valeur de la somme de la série convergente :
+Le problème a été résolu par Leonhard Euler, qui établit que cette somme 
+ vaut :
+et en donna une première preuve en 1735, puis une deuxième, plus rigoureuse, en 1741.
+Posé en premier par Pietro Mengoli en 1644, étudié 40 ans plus tard par Jacques Bernoulli né à Bâle, le problème résiste aux attaques des mathématiciens éminents de l'époque.
+Des valeurs approchées furent d'abord calculées, la valeur demandée étant approximativement égale à 1,644 934 066 848 226 43. À cause de la lente convergence de la série[note 1], une telle valeur approchée n'a pu être trouvée qu'en mettant en œuvre des méthodes d'accélération de convergence, ce qui a notamment été fait par Stirling en 1730 et Euler en 1731.
+Euler, dont Bâle est également la ville natale, annonce en 1735 la découverte de la somme exacte. Mais ses arguments d’alors font intervenir des produits infinis de façon non rigoureuse. Euler obtient une notoriété immédiate. Il a considérablement généralisé le problème et ses idées seront reprises par le mathématicien allemand Bernhard Riemann dans son article de 1859, dans lequel celui-ci définit la fonction ζ, en démontre les propriétés de base et énonce sa célèbre hypothèse.
+Six ans plus tard, en 1741, Euler produit une deuxième démonstration.
+En 1735, la déduction d'Euler de la valeur π2/6 utilise essentiellement des observations sur les polynômes, en présumant que ces mêmes propriétés sont toujours vraies pour les séries infinies. Le raisonnement original d'Euler requiert une justification, mais même sans celle-ci, en obtenant la valeur correcte, il est capable de la vérifier numériquement par rapport aux valeurs approchées calculées précédemment par Stirling et lui-même. La concordance qu'il observe lui inspire suffisamment confiance pour annoncer son résultat à la communauté mathématique.
+Pour suivre l'argument d'Euler, rappelons le développement en série de Taylor de la fonction sinus au voisinage de 0 :
+En supposant x non nul, on a  donc:
+Maintenant, les racines de (sinx)/x (intersection avec l'axe des x) apparaissent précisément pour x = ±nπ, où n = 1, 2, 3…. Euler exprime alors audacieusement cette série infinie comme un produit de facteurs linéaires donnés par ses racines, comme on le ferait pour un polynôme :
+Identifiant les coefficients de 
+ (et d'ailleurs également de 
+, 
+, etc.) dans la série et dans le développement des premiers termes du produit infini, il obtient 
+ (ainsi que 
+90
+, etc. ; voir les valeurs de la fonctions zêta aux entiers pairs) : en effet, en développement formellement le produit,  on voit que le coefficient de x2 dans sin(x)/x est 
+. Mais, à partir du développement de la série infinie originale de sin(x)/x, le coefficient de x2 est : 
+. Ces deux coefficients doivent être égaux ; ainsi,
+. En multipliant les deux côtés de cette équation par –π2, on obtient la somme des inverses des carrés d'entiers positifs.
+Conscient de la faiblesse de son argumentation, Euler reviendra sur cette question en 1743, et proposera une autre justification du produit par factorisation de 
+, avec n infiniment grand,,. Mais une preuve rigoureuse de cette égalité ne pourra vraiment être conduite qu'au siècle suivant, avec le développement des fonctions analytiques.
+Dans une deuxième preuve datant de 1741, Euler, évalue de deux façons l'intégrale 
+arcsin
+. On la calcule d'abord explicitement :
+La deuxième évaluation passe par le développement en série entière de la fonction arc sinus. D'après la formule du binôme généralisée,
+Par « intégration » terme à terme, on en déduit que :
+Or
+Par interversion série-intégrale, Euler trouve ainsi la somme des inverses des carrés d'entiers impairs :
+Puis il conclut en séparant la série 
+ en la somme de ses termes pairs et la somme de ses termes impairs :
+Donc :
+Cette deuxième preuve d'Euler semblait plus rigoureuse que la première. Il n'y manquait qu'une justification de l'interversion série-intégrale. On peut y remédier en invoquant, par exemple, le théorème de convergence monotone, démontré par Beppo Levi en 1906.
+Certaines preuves font appel à des théorèmes de géométrie euclidienne (et à l'interprétation géométrique des nombres complexes). Ainsi, Brink établit la preuve suivante: on applique le développement en série entière du logarithme complexe en z = eix :
+On en déduit :
+Or, par le théorème de l'angle inscrit :
+Ainsi :
+Grant Sanderson a donné une preuve complètement géométrique, non rigoureuse sous cette forme,  mais ne reposant que sur des arguments analogues à ceux des preuves sans mots[10].
+Tom Apostol a publié en 1983 une preuve reposant sur un calcul intégral[11]. Il considère l'intégrale double :
+En utilisant le développement en série entière, on a :
+D'autre part, en effectuant le changement de variables 
+, on obtient, après quelques transformation trigonométriques :
+L'argument suivant prouve l'identité ζ(2) = π2/6, où ζ est la fonction zêta de Riemann. C'est la démonstration la plus élémentaire disponible ; car la plupart des démonstrations utilisent des résultats de mathématiques avancées, telle que les séries de Fourier, l'analyse complexe[note 2] et le calcul à plusieurs variables ; celle qui suit ne requiert même pas le calcul à une variable (bien qu'une limite soit prise à la fin).
+Cette démonstration remonte au Cours d'Analyse[12] de Cauchy (1821). Elle apparaît en 1954 dans le livre d'Akiva et Isaak Yaglom (en) Neelementarnye Zadachi v Elementarnom Izlozhenii[13], puis dans le journal Eureka en 1982, attribuée à John Scholes, mais Scholes a déclaré qu'il a appris la démonstration de Peter Swinnerton-Dyer, et dans tous les cas il maintient que la démonstration était « bien connue à Cambridge à la fin des années 1960 ».
+On utilise les propriétés suivantes sur les fonctions cotangente cot = cos/sin et cosécante csc = 1/sin, pour tout réel x ∈ ]0, π/2[ :
+L'idée principale derrière la démonstration est d'encadrer les sommes partielles
+entre deux expressions, chacune tendant vers π2/6 quand m tend vers l'infini.
+Soit m un entier positif. D'après l'identité vue supra, on a :
+En particulier, à chaque xr = rπ/2m + 1 ∈ ]0, π/2[ pour r ∈ {1, … , m} :
+où P est le polynôme
+Puisque ce polynôme est de degré m et que 
+cot
+cot
+cot
+, les m nombres cot2(xr) sont exactement les racines de P. On peut donc calculer leur somme en fonction des coefficients de P :
+En substituant l'identité csc2(x) = 1 + cot2(x), on a
+Maintenant, considérons l'encadrement cot2(x) < 1/x2 < csc2(x). En additionnant tous ces encadrements pour chaque nombre xr = rπ/2m + 1 et en utilisant les deux identités ci-dessus, on obtient
+En les multipliant par [π/(2m + 1)]2, cela devient
+Lorsque m tend vers l'infini, les parties gauche et droite tendent chacune vers π2/6 donc, par le théorème des gendarmes,
+Le calcul s'obtient très simplement avec l'aide des outils de l'analyse harmonique. Il suffit pour cela d'appliquer l'égalité de Parseval à la série de Fourier de la fonction périodique de période 2π égale à l'identité sur [–π, π[[14].
+On peut aussi utiliser la technique de Feynman dans une intégrale remarquée par Freitas [15]:
+ln
+La primitive de cette intégrale ne peut pas être exprimée formellement, cependant en dérivant sous le signe intégrale par rapport à 
+ :
+qu'on peut calculer par le changement de variable 
+ et une décomposition en éléments simples. En particulier, pour 
+, on a :
+Par la formule d'addition des arc tangentes et en intégrant, on obtient :
+arccos
+La constante d'intégration 
+ peut être obtenue en remarquant que
+D'où :
+De plus :
+Or, cette dernière intégrale peut être évaluée grâce au développement en série entière du logarithme :
+ln
+ce qui permet de conclure.
+La fonction zêta de Riemann ζ(s)[16] est une des plus importantes fonctions de la théorie des nombres, à cause de sa relation avec la distribution des nombres premiers. La fonction est définie pour tout nombre complexe  s de partie réelle strictement supérieure à 1 par la formule suivante[note 3] :
+En prenant s = 2, nous voyons que ζ(2) est égale à la somme des inverses des carrés d'entiers positifs :
+On montre facilement, en majorant cette série à termes positifs par une série télescopique, qu'elle converge et que ζ(2) < 5/3 = 1,66…, mais la valeur exacte ζ(2) = π2/6 est demeurée longtemps inconnue, jusqu'à ce qu'Euler la calcule numériquement en 1735, (ré)inventant pour ce faire la formule connue à présent sous le nom de formule sommatoire d'Euler-Maclaurin, et constate son égalité (jusqu'à la vingtième décimale) avec π2/6, puis construise la démonstration. Il a démontré bien plus tard que ζ(2n) a une belle expression en nombres de Bernoulli pour tout entier n > 0.

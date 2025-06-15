@@ -59,5 +59,6 @@ if __name__ == '__main__':
     # scrap = WikiScraper(url)
     # scrap.scrap()
     # scrap.save()
-    WikiScraper.search_and_scrap("wikipedia large language model", num_results=100)
+    # WikiScraper.search_and_scrap("wikipedia large language model", num_results=100)
+    WikiScraper.search_and_scrap("wikipedia bâle 3", destination="data/bale3/", num_results=100)
 
