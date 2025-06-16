@@ -15,6 +15,7 @@ for file in files:
 print("Embedding")
 index = GPTVectorStoreIndex.from_documents(documents, show_progress=True)
 
+
 query_engine = index.as_query_engine(similarity_top_k=3)
 # query = "How old was Leonardo when he died?"
 # query = "When Leonardo leave Milan ?"
