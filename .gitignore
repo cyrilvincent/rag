@@ -8,3 +8,4 @@ large/**
 .venv
 .idea
 storage/**
+myvenv
