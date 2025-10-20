@@ -1,0 +1,7 @@
+myvenv = Langchain 0.3.27
+Utiliser requirements.txt
+
+.venv = langchain 1.0.0
+Hub et QA ne marche plus
+Utiliser requirements10.txt
+AgentExecutor ne fonctionne plus

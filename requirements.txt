@@ -19,5 +19,6 @@ scikit-learn
 tensorflow_hub
 seaborn
 transformers
+psycopg2
 
 
