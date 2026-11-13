@@ -1,23 +1,15 @@
 import datetime
-import whisper # pip install openai-whisper
 import os
 from openai import OpenAI # pip install openai
 
 class OpenAIService:
 
-    def __init__(self, whisper_model="base", chat_model="gpt-3.5-turbo-1106", chat_limit=16385, with_whisper=False):
-        if with_whisper:
-            os.environ["path"] += ";c:\\ffmpeg\\bin"
-            self.model = whisper.load_model(whisper_model)
-        with open("data/openai/openai.env") as f:
+    def __init__(self, whisper_model="base", chat_model="gpt-5.6-luna", chat_limit=16385):
+        with open("data/secrets/key.secret") as f:
             key = f.read()
         self.client = OpenAI(api_key=key)
         self.chat_model = chat_model
         self.chat_limit = chat_limit
-
-    def mp3_to_text(self, path):
-        result = self.model.transcribe(path)
-        return result["text"].encode("utf-8").decode()
 
     def chat(self, system: str, user: str) -> str:
         completion = self.client.chat.completions.create(
@@ -36,9 +28,9 @@ class OpenAIService:
     def correction(self, text: str, ponctuation=True, bank=True) -> str:
         s = "Corriges moi ce texte "
         if ponctuation:
-            s+="avec de la ponctuation "
+            s += "avec de la ponctuation "
         if bank:
-            s+="avec un vocabulaire bancaire"
+            s += "avec un vocabulaire bancaire"
         completion = self.client.chat.completions.create(
             model=self.chat_model,
             messages=[{"role": "system", "content": s},
@@ -56,34 +48,29 @@ class OpenAIService:
 
 if __name__ == '__main__':
     print("OpenAI test")
-    openai = OpenAIService(whisper_model="base")
+    openai = OpenAIService()
     time0 = datetime.datetime.now()
 
-    # res = openai.mp3_to_text("data/openai/bank.mp3")
-    # print(res.strip())
-    # with open("data/openai/bank.txt", "w") as f:
-    #     f.write(res)
-
-    with open("data/openai/bank.txt", "r") as f:
+    with open("data/bank/bank.txt", "r") as f:
         res = f.read()
     correction = openai.correction(res)
     print(correction)
-    with open(f"data/openai/correction.txt", "w") as f:
+    with open(f"data/bank/correction.txt", "w") as f:
         f.write(correction)
 
     summary = openai.summary(res)
     print(summary)
-    with open(f"data/openai/summary5.txt", "w") as f:
+    with open(f"data/bank/summary5.txt", "w") as f:
         f.write(summary)
 
     summary_english = openai.translate(summary)
     print(summary_english)
-    with open(f"data/openai/summary_english.txt", "w") as f:
+    with open(f"data/bank/summary_english.txt", "w") as f:
         f.write(summary_english)
 
     summary_jpn = openai.translate(summary, "japonais")
     print(summary_jpn)
-    with open(f"data/openai/summary_jpn.txt", "wb") as f:
+    with open(f"data/bank/summary_jpn.txt", "wb") as f:
         f.write(summary_jpn.encode("utf-8"))
 
     print(datetime.datetime.now() - time0)

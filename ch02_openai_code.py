@@ -9,7 +9,7 @@ with open("ch02_openai_service.py") as f:
 
 client = OpenAI()
 
-completion = client.chat.completions.create(model="gpt-3.5-turbo",
+completion = client.chat.completions.create(model="gpt-5.6-luna",
     messages=[
         {"role": "system", "content": "Ajoute des commentaires docstrings dans ce code Python"},
         {"role": "user", "content": text}
