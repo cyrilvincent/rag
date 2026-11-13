@@ -1,7 +1,12 @@
 myvenv = Langchain 0.3.27
 Utiliser requirements.txt
 
+2025
 .venv = langchain 1.0.0
 Hub et QA ne marche plus
 Utiliser requirements10.txt
 AgentExecutor ne fonctionne plus
+
+2026
+.venv15 = langchain 1.5
+Non testé
