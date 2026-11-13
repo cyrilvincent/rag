@@ -9,4 +9,5 @@ large/**
 .idea
 storage/**
 myvenv
+.venv*
 .ipynb_checkpoints
