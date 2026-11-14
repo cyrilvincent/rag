@@ -11,3 +11,4 @@ storage/**
 myvenv
 .venv*
 .ipynb_checkpoints
+*checkpoints.ipynb
