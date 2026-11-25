@@ -12,3 +12,4 @@ myvenv
 .venv*
 .ipynb_checkpoints/**
 *checkpoints.ipynb
+*checkpoint*
