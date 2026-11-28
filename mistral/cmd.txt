@@ -1,0 +1,34 @@
+python 3.12 Webui: Requires-Python >=3.11,<3.13.0a1
+
+Install ollama
+https://ollama.com/download/windows
+windows powershell : irm https://ollama.com/install.ps1 | iex
+linux : curl -fsSL https://ollama.com/install.sh | sh
+
+Depuis ollama
+ollama run mistral
+ollama run ministral-3:3b # Q4 c'est celui que j'ai installé
+ollama run mistral:7b-instruct-v0.3-q8_0 #Q8
+PowerShell : curl http://localhost:11434/api/generate -d {"model":"mistral","prompt":"Bonjour","stream":false}'
+
+Depuis HuggingFace
+ollama run hf.co/<user>/<repo-GGUF>:Q5_K_M
+
+WebUI sans docker
+pip install open-webui
+open-webui serve
+localhost:8080
+Ecoute sur le port 11434 par défaut sinon env : OLLAMA_BASE_URL=http://localhost:11434
+
+Depuis docker
+docker compose up
+localhost:3000
+
+Liste des modèles
+curl http://localhost:11434/api/tags
+
+api
+ps : curl http://localhost:11434/api/generate -d '{"model":"ministral-3:3b","prompt":"Bonjour","stream":false}'
+cmd : curl http://localhost:11434/api/generate -d "{\"model\":\"ministral-3:3b\",\"prompt\":\"Bonjour\",\"stream\":false}"
+cmd + file : echo {"model":"ministral-3:3b","prompt":"Bonjour","stream":false} > req.json
+curl http://localhost:11434/api/generate -d @req.json
